@@ -18,3 +18,15 @@ Stay updated with show schedules, enjoy exclusive content, play interactive game
 1. Clone the repository:
    ```bash
    git clone https://github.com/beetlejuice-tour/beetlejuice-app.git
+2. Install dependencies:
+   ```bash
+   npm install
+3. Start the development server:
+   ```bash
+   npm start
+
+Contributing
+We welcome contributions! Please check the #CONTRIBUTING.md for details.
+
+License
+This project is licensed under the #MIT License.
