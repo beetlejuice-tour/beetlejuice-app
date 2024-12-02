@@ -26,7 +26,7 @@ Stay updated with show schedules, enjoy exclusive content, play interactive game
    npm start
 
 Contributing
-We welcome contributions! Please check the #CONTRIBUTING.md for details.
+We welcome contributions! Please check the [CONTRIBUTING.md](https://github.com/beetlejuice-tour/beetlejuice-app/blob/main/CONTRIBUTING.md) for details.
 
 License
-This project is licensed under the #MIT License.
+This project is licensed under the [MIT License](https://github.com/beetlejuice-tour/beetlejuice-app/blob/main/License).
